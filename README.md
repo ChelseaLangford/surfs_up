@@ -14,6 +14,16 @@ The results of the statistical analysis for June and December are below:
 - Overall, June has a larger frequency of days above 80 degrees compared to December.
 - Both months have low standard deviations and temperatures are largely centered around the mean, suggesting that there is not a large variation in tempature during these months. Plots of the data are below:
 
+![June_plot](June_plot.png) ![December_plot](December_plot.png)
 
+### Summmary 
+
+#### Should the shop remain open?
+Based on the temperature analysis, keeping the surf and ice cream shop open year round is definitely possible. With mean temperatures in the 70s with little extreme variation in temperature, the temperature in Oahu in both summer and winter is pretty consistent. While colder days in December can be expected, the average temperature is definitely promising for keeping customers interested in the shop in the winter months. There may also be an influx of tourists around the holidays in December, which could be a boost to the shops overall revenue if they were to stay open. 
+
+#### Additional queries to consider
+1. While temperature is an important consideration in terms of considering the shop's potential year round, another important element is precipitation. Comparing the amount of precipitation between the two months could provide helpful information for how many good beach days the shop can expect in summer vs. winter.
+2. Beyond precipitation, the shop owners should also consider the number of sunny days per month. Cloudy days may not draw as many ice cream lovers as sunny days, and there may be less beachgoers in general who would be interested in trying an afternoon of surfing.
+3. The shop owners should also comparing all months vs. just taking a sampling of two months. There may be suprising results for precipitation, cloudy days, and temperature for months they may not have even considered being an issue. The shop owners should let the full data picture inform their decisions vs. limiting their data set too early on in their research.
 
 
