@@ -5,10 +5,15 @@ This analysis includes a comparison of temperature data from June and December i
 
 ### Instructions
 - Within Jupyter Notebook, import dependencies. The SQLalchemy libraries will be used to create a connection between Python and the SQL database.
+![dependencies](images/dependencies.png)
 - With that connection established, extract necessary data from the SQL database to manipulate in Jupter Notebook.
-- Create new dataframes of the cleaned data. 
-- Calculated summary statistics based on the new dataframes.
+![extract_data](images/extract_data.png)
+- Create new dataframes of the cleaned data.
+![dataframe](images/dataframe.png)
+- Calculate summary statistics based on the new dataframes.
+![summary_stats](images/summary_stats.png)
 - Use Matplotlib to create visualizations of the cleaned datasets.
+![plot_results](images/plot_results.png)
 
 ### Results
 The results of the statistical analysis for June and December are below:
