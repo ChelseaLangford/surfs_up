@@ -3,6 +3,13 @@
 ### Overview
 This analysis includes a comparison of temperature data from June and December in Oahu in order to determine the feasibility of keeping the business open year round. In order to complete this analysis, weather data from multiple years was uploaded to Jupyter Notebook in order to use Python and SQLalchemy to filter the data by specific months and put that data into separate data frames. Then, a statistical analysis was performed on the data frames in order to compare the data between the two months.
 
+### Instructions
+- Within Jupyter Notebook, import dependencies. The SQLalchemy libraries will be used to create a connection between Python and the SQL database.
+- With that connection established, extract necessary data from the SQL database to manipulate in Jupter Notebook.
+- Create new dataframes of the cleaned data. 
+- Calculated summary statistics based on the new dataframes.
+- Use Matplotlib to create visualizations of the cleaned datasets.
+
 ### Results
 The results of the statistical analysis for June and December are below:
 
