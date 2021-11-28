@@ -6,7 +6,7 @@ This analysis includes a comparison of temperature data from June and December i
 ### Results
 The results of the statistical analysis for June and December are below:
 
-![June_Summary](June_Summary.png) ![Dec_Summmary](Dec_Summary.png)
+![June_Summary](images/June_Summary.png) ![Dec_Summmary](images/Dec_Summary.png)
 
 - Despite the mean temperature for December being almost 4 degrees lower than June, both mean tempatures are in the 70s, which is great weather for surfing and ice cream.
 - One concern with December weather is that the temperature at the 25% percentile is lower than 70 degrees, which means there will certainly be days that may be too cold to draw customers. The 25% percentile for June is still above 70 degrees.
@@ -14,7 +14,7 @@ The results of the statistical analysis for June and December are below:
 - Overall, June has a larger frequency of days above 80 degrees compared to December.
 - Both months have low standard deviations and temperatures are largely centered around the mean, suggesting that there is not a large variation in tempature during these months. Plots of the data are below:
 
-![June_plot](June_plot.png) ![December_plot](December_plot.png)
+![June_plot](images/June_plot.png) ![December_plot](images/December_plot.png)
 
 ### Summmary 
 
